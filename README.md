@@ -5,7 +5,7 @@ Written by Andrew Dawson
 ## Contents
 1. The Physics of the Pendulum
 2.  Expanation of the Code
-3.  Euler Method vs the Euler-Cromer Metho
+3.  Euler Method vs the Euler-Cromer Method
 
 ## The Physics of the Pendulum
 A simple pendulum consists of a mass attatched to a massless rod at one end and the rod to be attatched to some fixed pivot point at the other end. The pendulum is to given an intial displacement and then left alone to swing freely. The diagram below shows the arrangement of a simple pendulum.
